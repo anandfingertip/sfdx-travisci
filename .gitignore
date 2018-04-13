@@ -1,3 +1,4 @@
+local file
 .classpath
 .DS_Store
 .sfdx
@@ -10,3 +11,4 @@ node_modules
 selenium-client-jars/
 test/artifacts
 .circleci/*
+ assets/server.key
