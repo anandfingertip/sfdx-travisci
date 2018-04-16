@@ -11,4 +11,4 @@ node_modules
 selenium-client-jars/
 test/artifacts
 .circleci/*
- assets/server.key
+assets/server.key
